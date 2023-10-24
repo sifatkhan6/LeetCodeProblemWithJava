@@ -1,4 +1,4 @@
-//Problem No: 27. Remove Element
+//Problem No: 27. Remove Element - Easy
 public class RemoveElement {
 	public int removeElement(int[] nums, int val) {
 	    int n = nums.length;

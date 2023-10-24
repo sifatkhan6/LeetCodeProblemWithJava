@@ -1,4 +1,4 @@
-//Problem No: 1.Two Sum
+//Problem No: 1.Two Sum - Easy
 import java.util.HashMap;
 
 public class TwoSum {
