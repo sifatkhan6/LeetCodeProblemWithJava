@@ -1,4 +1,4 @@
-//231. Power of Two
+//231. Power of Two - Easy
 public class PowerOfTwo {
 	public boolean isPowerOfTwo(int n) {
 	    if (n <= 0) {
