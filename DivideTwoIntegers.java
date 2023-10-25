@@ -1,4 +1,4 @@
-//29. Divide Two Integers
+//29. Divide Two Integers - Medium
 public class DivideTwoIntegers {
 	public int divide(int dividend, int divisor) {
         if (dividend == Integer.MIN_VALUE && divisor == -1) {
